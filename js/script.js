@@ -17,4 +17,4 @@ let result = firstName + surname + favColor + 23;
 
 // Visualizzo il risultato su un paragrafo con id mioId
 
-document.getElementById('mioId').innerHTML = `Benvenuto ${firstName} ${surname} la tua password molto sicura sarà: ${result}`;
+document.getElementById('mioId').innerHTML = `Benvenuto ${firstName} ${surname} la tua password moooooolto sicura sarà: ${result}`;
